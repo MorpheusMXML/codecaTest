@@ -1,0 +1,25 @@
+{
+    "Questionnaire": "Intrinsic Motivation and Enjoyment",
+    "items":[ 
+    {
+        "id": 31,
+        "Text": "Ich finde, diesen Chatbot zu benutzen, ist unterhaltsam.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 32,
+        "Text": "Die tatsächliche Verwendung dieses Chatbots ist ",
+        "scaleSize": 7,
+        "low": "extrem unangenehm",
+        "high": "extrem angenehm"
+    },
+    {
+        "id": 33,
+        "Text": "Den Chatbot zu verwenden macht mir Spaß.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    }
+ ]}

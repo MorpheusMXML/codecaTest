@@ -1,0 +1,53 @@
+{
+    "Questionnaire": "Perceived Ease of Use",
+    "items":[ 
+    {
+        "id": 21,
+        "Text": "Es würde mir einfach fallen, zu lernen, diesen Chatbot zu benutzen.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 22,
+        "Text": "Ich würde es einfach finden, den Chatbot dazu zu bringen, zu tun, was ich möchte.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 23,
+        "Text": "Meine Interaktionen mit diesem Chatbot wären klar und verständlich.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 24,
+        "Text": "Ich würde finden, dass es einfach wäre, mit dem Chatbot zu interagieren.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+	{
+        "id": 91,
+        "Text": "Bitte wählen Sie "extrem unwahrscheinlich" aus.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 25,
+        "Text": "Es wäre einfach für mich, geschickt im Umgang mit dem Chatbot zu werden.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    },
+    {
+        "id": 26,
+        "Text": "Ich würde den Chatbot einfach zu benutzend finden.",
+        "scaleSize": 7,
+        "low": "extrem unwahrscheinlich",
+        "high": "extrem wahrscheinlich"
+    }
+ ]}

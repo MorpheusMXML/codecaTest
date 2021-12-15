@@ -1,0 +1,88 @@
+{
+    "Questionnaire": "UEQ+",
+    "items":[ 
+    {
+        "id": 511,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nutzlos",
+        "high": "nützlich"
+    },
+    {
+        "id": 512,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht hilfreich",
+        "high": "hilfreich"
+    },
+    {
+        "id": 513,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht vorteilhaft",
+        "high": "vorteilhaft"
+    },
+    {
+        "id": 514,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht lohnend",
+        "high": "lohnend"
+    },
+    {
+        "id": 515,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "mühevoll",
+        "high": "mühelos"
+    },
+    {
+        "id": 516,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unlogisch",
+        "high": "logisch"
+    },
+	{
+        "id": 517,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht einleuchtend",
+        "high": "einleuchtend"
+    },
+	{
+        "id": 518,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht schlüssig",
+        "high": "schlüssig"
+    },
+    {
+        "id": 519,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unsicher",
+        "high": "sicher"
+    },
+    {
+        "id": 520,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unseriös",
+        "high": "seriös"
+    },
+	{
+        "id": 521,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unzuverlässig",
+        "high": "zuverlässig"
+    },
+	{
+        "id": 522,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "intransparent",
+        "high": "transparent"
+    }
+ ]}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codeca-5-wnyc",
+  "private_key_id": "d414a3983f5eb192a0f10347846fd1640c694403",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbQZe04sOsmMWu\nB38qeVNSoTGj/nZ8T6XmRZ9vgmRCeYN5D8/ZiDfrSbM+os1imL2fnJOC0tUPzYYX\nx8dsFWvIzLU8cogy0lhwGXpyjCl2RMG/1SnU4Zr2cMHWWfiSq2G/y+mOVFuX5peT\nUJ4zKd9IDjGwPLr+4Hwb1jSGude7wfii8w1Z0TD1sY7cqqyZnqRK929wPw36va/A\n6PXblGjKWqwuiNRFGx2CirFqA0ZvZ04BHsxmvnCJhR6/05/d+l9CMvv9MuycQATy\nqiibwvmLwpNuAPMMzugZ0SpvQQMD7gRyBG/nJ5KJfBYbvYSDdJx17bM4da4ikPEl\n/KHdRLgPAgMBAAECggEADLzJeSI1XbXWwhuNL5f/ZBnMnis+keeePfu5Q/HUxkHa\nuYujUEIuhKlyIG22NdSlK3xRDrTipaATreNjk/iSNVOjJPRYZW9v4NWyFeAYc1aS\nO1IOAJNTFjikIiiog3v+Wg7/R5v7lQSgTwtMOkrj8RxiyZf1mxbKgi/jB39zZ35e\ny1/gMZzDq91gj7CU5iy/J+g2VfpXpE7SvNJto5bLtE6y5HmT6RcJyUbOXCsucu6f\nCsUiamfSn5Hox0m5234cEppl0oF2FOlNHyaa0GIdUCqJDc3UmRHutFfY8rzYJImB\nYpXrmmMgAC3+PCh/Kbfjb5LXyl6htRkAGhC0GF34CQKBgQD/PXp8LTuQYIhmLmBS\nr0/F0Wq/D3dD+XBMU3HLykswum0Cl1ZuF31WqaH5oiMN7LzQ/FgVbj9i8cdsc+YG\ne1/8h1/+ThQ2U5J4erBqEzNdyZxXBUrAm+3uxGH73rDTZG2YE1KV15VRkwNTcNL4\nVhKF6PiaJz39TKAvMZq3Y247xwKBgQDb6LC78iLfAykyj3w5LDTI7X/DQLVx5DJg\nFTB6c20UAGjKfhd790N4JIwIaLdRY1Wgn1c2fLuwAL8QnP+JGTvbOL7ADx5ZjKNF\nt0y6AlDeI2akokormkhelZBIy7UWl1QvZCd5Y/RloMaVB2bTD1SaXL3X1m3EH+qj\njt1DI7vReQKBgQC4J+5Y6/Xe7JddSja7Ubv32WnwYkNF6xIoL8iaJeHsTYXbab+1\nfQM05P119JLgOB/flUIkbEAVrqaZTGH56UhPFomfHUyeCdxTSwo/7oyQLae8bZgK\nsjaQoGal6H2ieAJOyBo8/KfCjJTIvk2pWcjRj07XQlsKiB/HDT449OeS/wKBgQDD\nUeSPulvwml0gFENwgGwNvqyI3tOJ6fY4Uvmw+Q58AnUQzXfMWm0pq8RYv7F673Ch\nboVG1vjZNYB+oANzYN9CMh9ydLsvLHPkOw9B80aiVu0W8zJPkgQPRmZV0eDwxM44\nHYvWDMqI7YkT2vQgKHCrfg38Q+9QkEyWoxCxTm7GeQKBgQCaZi82VZHr0cwUlEqR\nzp8C2404aCvTBqhFjQuX67Ryi72YlttOKcEd6g/Zh0FM2ON6pzf25boqvGo8TRJ6\nSN9vm5HNgEhXf3bH8R8dxfobv2FU1ZlsXKkTHH7jU6UD5IYjzVoCGZI9F9quuOY2\nrqy6iSFntCOgtBDI+WYR32CwZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "codecaservice-1-996@codeca-5-wnyc.iam.gserviceaccount.com",
+  "client_id": "115420066082034120815",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codecaservice-1-996%40codeca-5-wnyc.iam.gserviceaccount.com"
+}
