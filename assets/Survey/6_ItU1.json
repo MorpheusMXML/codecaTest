@@ -3,14 +3,14 @@
     "items":[ 
     {
         "id": 61,
-        "Text": "In Zukungt würde ich diesen Chatbot regelmäßig verwenden.",
+        "Text": "In Zukunft würde ich diesen Chatbot regelmäßig verwenden.",
         "scaleSize": 5,
         "low": "stimme gar nicht zu",
         "high": "stimme sehr zu"
     },
     {
         "id": 62,
-        "Text": "In Zukungt würde ich diesen Chatbot oft verwenden.",
+        "Text": "In Zukunft würde ich diesen Chatbot oft verwenden.",
         "scaleSize": 5,
         "low": "stimme gar nicht zu",
         "high": "stimme sehr zu"

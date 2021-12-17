@@ -10,17 +10,17 @@
     },
     {
         "id": 12,
-        "Text": "Wie menschenähnlich haben Sie den Chatbot wahrgenommen?",
+        "Text": "Wie menschlich haben Sie den Chatbot wahrgenommen?",
         "scaleSize": 9,
         "low": "extrem menschenunähnlich",
         "high": "extrem menschenähnlich"
     },
     {
         "id": 13,
-        "Text": "Wie redegewandt haben Sie den Chatbot wahrgenommen?",
+        "Text": "Wie konversationsfähig haben Sie den Chatbot wahrgenommen?",
         "scaleSize": 9,
-        "low": "extrem einsilbig",
-        "high": "extrem redegewandt"
+        "low": "extrem unfähig",
+        "high": "extrem fähig"
     },
     {
         "id": 14,
@@ -54,7 +54,7 @@
         "id": 90,
         "Text": "Bitte wählen Sie das dritte Feld von links aus.",
         "scaleSize": 9,
-        "low": "extrem unreif",
-        "high": "extrem reif"
+        "low": "extrem hier",
+        "high": "extrem dort"
 	}
  ]}
