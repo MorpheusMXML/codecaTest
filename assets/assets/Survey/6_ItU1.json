@@ -1,0 +1,25 @@
+{
+    "Questionnaire": "Intention to use Teo",
+    "items":[ 
+    {
+        "id": 61,
+        "Text": "In Zukunft würde ich diesen Chatbot regelmäßig verwenden.",
+        "scaleSize": 5,
+        "low": "stimme gar nicht zu",
+        "high": "stimme sehr zu"
+    },
+    {
+        "id": 62,
+        "Text": "In Zukunft würde ich diesen Chatbot oft verwenden.",
+        "scaleSize": 5,
+        "low": "stimme gar nicht zu",
+        "high": "stimme sehr zu"
+    },
+    {
+        "id": 92,
+        "Text": "Bitte wählen Sie die Mitte der Skale aus.",
+        "scaleSize": 5,
+        "low": "stimme gar nicht zu",
+        "high": "stimme sehr zu"
+    }
+ ]}

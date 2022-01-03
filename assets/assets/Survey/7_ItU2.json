@@ -1,0 +1,11 @@
+{
+    "Questionnaire": "Intention to use Davis",
+    "items":[ 
+    {
+        "id": 71,
+        "Text": "Unter der Annahme, dass der Chatbot an meiner Hochschule verfügbar wäre, sage ich voraus, dass ich ihn regelmäßig verwenden würde.",
+        "scaleSize": 7,
+        "low": "unwahrscheinlich",
+        "high": "wahrscheinlich"
+    }
+ ]}

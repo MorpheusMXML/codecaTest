@@ -1,0 +1,60 @@
+{
+    "Questionnaire": "Perceived Humanness",
+    "items":[ 
+    {
+        "id": 11,
+        "Text": "Wie angenehm war es, sich mit dem Chatbot zu unterhalten?",
+        "scaleSize": 9,
+        "low": "extrem unangenehm",
+        "high": "extrem angenehm"
+    },
+    {
+        "id": 12,
+        "Text": "Wie menschlich haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem menschenunähnlich",
+        "high": "extrem menschenähnlich"
+    },
+    {
+        "id": 13,
+        "Text": "Wie konversationsfähig haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem unfähig",
+        "high": "extrem fähig"
+    },
+    {
+        "id": 14,
+        "Text": "Wie rücksichtsvoll haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem rücksichtslos",
+        "high": "extrem rücksichtsvoll"
+    },
+    {
+        "id": 15,
+        "Text": "Wie höflich haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem unhöflich",
+        "high": "extrem höflich"
+    },
+    {
+        "id": 16,
+        "Text": "Wie zugänglich haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem unzugänglich",
+        "high": "extrem zugänglich"
+    },
+    {
+        "id": 17,
+        "Text": "Wie einnehmend haben Sie den Chatbot wahrgenommen?",
+        "scaleSize": 9,
+        "low": "extrem unnahbar",
+        "high": "extrem einnehmend"
+    },
+    {
+        "id": 90,
+        "Text": "Bitte wählen Sie das dritte Feld von links aus.",
+        "scaleSize": 9,
+        "low": "extrem hier",
+        "high": "extrem dort"
+	}
+ ]}

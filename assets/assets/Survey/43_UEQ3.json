@@ -1,0 +1,60 @@
+{
+    "Questionnaire": "UEQ3",
+    "items":[ 
+    {
+        "id": 431,
+        "Text": "Der Chatbot bzw. meine Interaktion mit ihm war...",
+        "scaleSize": 7,
+        "low": "langweilig",
+        "high": "spannend"
+    },
+    {
+        "id": 432,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "uninteressant",
+        "high": "interessant"
+    },
+    {
+        "id": 433,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "einschläfernd",
+        "high": "aktivierend"
+    },
+    {
+        "id": 434,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "minderwertig",
+        "high": "wertvoll"
+    },
+    {
+        "id": 435,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "phantasielos",
+        "high": "kreativ"
+    },
+    {
+        "id": 436,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "konventionell",
+        "high": "originell"
+    },
+	{
+        "id": 437,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "herrkömmlich",
+        "high": "neuartig"
+    },
+	{
+        "id": 438,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "konservativ",
+        "high": "innovativ"
+    }
+ ]}

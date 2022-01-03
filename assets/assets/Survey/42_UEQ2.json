@@ -1,0 +1,60 @@
+{
+    "Questionnaire": "UEQ2",
+    "items":[ 
+    {
+        "id": 421,
+        "Text": "Der Chatbot bzw. meine Interaktion mit ihm war...",
+        "scaleSize": 7,
+        "low": "unverständlich",
+        "high": "verständlich"
+    },
+    {
+        "id": 422,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "schwer zu lernen",
+        "high": "leicht zu lernen"
+    },
+    {
+        "id": 423,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "kompliziert",
+        "high": "einfach"
+    },
+    {
+        "id": 424,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "verwirrend",
+        "high": "übersichtlich"
+    },
+    {
+        "id": 425,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unberechenbar",
+        "high": "berechenbar"
+    },
+    {
+        "id": 426,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "behindernd",
+        "high": "unterstützend"
+    },
+	{
+        "id": 427,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "nicht erwartungskonform",
+        "high": "erwartungskonform"
+    },
+	{
+        "id": 428,
+        "Text": "",
+        "scaleSize": 7,
+        "low": "unsicher",
+        "high": "sicher"
+    }
+ ]}
